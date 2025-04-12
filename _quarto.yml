@@ -30,21 +30,21 @@ website:
           - text: "Módulo 3"
             href: https://mmorenozam.github.io/biohack-modulo3/
             target: "_blank"
-          - text: "Módulo 4"
-            href: https://mmorenozam.github.io/biohack-modulo4/
-            target: "_blank"
-          - text: "Módulo 5"
-            href: https://mmorenozam.github.io/biohack-modulo5/
-            target: "_blank"
-          - text: "Módulo 6"
-            href: https://mmorenozam.github.io/biohack-modulo6/
-            target: "_blank"
-          - text: "Módulo 7"
-            href: https://mmorenozam.github.io/biohack-modulo7/
-            target: "_blank"
-          - text: "Módulo 8"
-            href: https://mmorenozam.github.io/biohack-modulo8/
-            target: "_blank"
+          # - text: "Módulo 4"
+          #   href: https://mmorenozam.github.io/biohack-modulo4/
+          #   target: "_blank"
+          # - text: "Módulo 5"
+          #   href: https://mmorenozam.github.io/biohack-modulo5/
+          #   target: "_blank"
+          # - text: "Módulo 6"
+          #   href: https://mmorenozam.github.io/biohack-modulo6/
+          #   target: "_blank"
+          # - text: "Módulo 7"
+          #   href: https://mmorenozam.github.io/biohack-modulo7/
+          #   target: "_blank"
+          # - text: "Módulo 8"
+          #   href: https://mmorenozam.github.io/biohack-modulo8/
+          #   target: "_blank"
       - text: Ejercicios
         menu:
           - text: "Demo"
