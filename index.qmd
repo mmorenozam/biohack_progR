@@ -15,6 +15,9 @@ execute:
 -   **12.04.2025**:
     -   Bienvenidos!
     -   El video de la clase se encuentra ya en línea, chequea la pestaña de Recursos
+    
+-   **24.04.2025**:
+    -   El video de la clase del 24.04 ya se encuentra en línea.
 
 <!-- Note that there are five types of callouts, including: -->
 <!-- `note`, `warning`, `important`, `tip`, and `caution`. -->
