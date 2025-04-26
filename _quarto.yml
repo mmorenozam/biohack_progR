@@ -30,8 +30,8 @@ website:
           - text: "Módulo 3"
             href: https://mmorenozam.github.io/biohack-modulo3/
             target: "_blank"
-          # - text: "Módulo 4"
-          #   href: https://mmorenozam.github.io/biohack-modulo4/
+          - text: "Módulo 4"
+            href: https://mmorenozam.github.io/biohack-modulo4/
           #   target: "_blank"
           # - text: "Módulo 5"
           #   href: https://mmorenozam.github.io/biohack-modulo5/
