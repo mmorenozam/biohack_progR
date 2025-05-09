@@ -12,6 +12,9 @@ execute:
 ## Anuncios
 
 ::: {.callout-important}
+-   **08.05.2025**:
+    -   El video de la clase del 08.05 ya se encuentra en línea.
+
 -   **26.04.2025**: 
     -   El video de la clase del 26.04 ya se encuentra en línea.
 
