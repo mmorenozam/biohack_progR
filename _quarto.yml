@@ -39,12 +39,12 @@ website:
           - text: "Módulo 6"
             href: https://mmorenozam.github.io/biohack-modulo6/
             target: "_blank"
-          # - text: "Módulo 7"
-          #   href: https://mmorenozam.github.io/biohack-modulo7/
-          #   target: "_blank"
-          # - text: "Módulo 8"
-          #   href: https://mmorenozam.github.io/biohack-modulo8/
-          #   target: "_blank"
+          - text: "Módulo 7"
+            href: https://mmorenozam.github.io/biohack-modulo7/
+            target: "_blank"
+          - text: "Módulo 8"
+            href: https://mmorenozam.github.io/biohack-modulo8/
+            target: "_blank"
       - text: Ejercicios
         menu:
           - text: "Demo"
