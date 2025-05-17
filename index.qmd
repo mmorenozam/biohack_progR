@@ -12,6 +12,11 @@ execute:
 ## Anuncios
 
 ::: {.callout-important}
+-   **17.05.2025**:
+    -   El video de la clase del 17.05 ya se encuentra en línea.
+    
+    -   Recuerda que la fecha límite de entrega del trabajo final es el 21.06 hasta la medianoche.
+
 -   **15.05.2025**:
     -   El video de la clase del 15.05 ya se encuentra en línea.
 
